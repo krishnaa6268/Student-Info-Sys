@@ -1,6 +1,6 @@
 # Student-Info-System
 
-In this project, we developed a multi web-Form on project C#.NET. IN which we use the simple concept of login and register feature with Database records.
+In this project, we developed a multi web-Form WS Application on C#.NET. IN which we use the simple concept of login and register features with Database records.
 
 Language: C#, SQL Framework: .NET LTS
 
